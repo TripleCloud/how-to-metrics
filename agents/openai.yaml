@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metrics 正确打开方式"
+  short_description: "基于统计口径、性能预算和可靠性分析、审查及实现 Metrics 埋点"
+  default_prompt: "使用 $how-to-metrics 分析当前 Metrics 的统计口径、性能、数据库负载和可靠性，并按任务范围审查或实现改进。"
